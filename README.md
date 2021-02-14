@@ -1,2 +1,2 @@
-# App_DiaDeVitoria
-Aplicativo desenvolvido por : Tiago Ribeiro Santos
+<h1>Aplicativo DIA DE VITÓRIA</h1>
+<hr/>
